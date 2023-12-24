@@ -19,7 +19,6 @@ This repository contains a Java-based Garage System Application designed to mana
 - **Functional Requirements:** [https://github.com/MrSa3dola/Garage-System-Application/blob/main/CS251-SoftwareRequirementsSpecifications-SRS-Template-v1.0.docx]
 - **Non-Functional Requirements:** [https://github.com/MrSa3dola/Garage-System-Application/blob/main/CS251-SoftwareDesignSpecifications-SDS-Template-v1.0.docx]
 - **Diagrams:**
-  - **Class Diagram:** [Link to Class Diagram]
-  - **Sequence Diagram:** [Link to Sequence Diagram]
+  - **Class Diagram:**
+  - **Sequence Diagram:**
 
-For detailed insights into the application's functionalities, refer to the respective files attached. Contributions, issues, and enhancements are welcome!
